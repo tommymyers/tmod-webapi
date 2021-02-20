@@ -1,0 +1,12 @@
+# IntelliJ
+.idea
+*.iml
+
+# macOS
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
